@@ -34,7 +34,7 @@
     <debezium.version>0.7.5</debezium.version>
     <vertx-codegen.version>3.5.2</vertx-codegen.version>
     <vertx-docgen.version>3.5.1</vertx-docgen.version>
-    <vertx-core.version>3.5.2</vertx-core.version>
+    <vertx-core.version>3.5.4</vertx-core.version>
   </properties>
 
   <dependencyManagement>
